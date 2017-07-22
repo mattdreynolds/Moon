@@ -13,8 +13,8 @@ description: You're either the one that creates the automation or you're getting
   - Tom Preston-Werner
 reading_time: true
 words_per_minute: 200
-logo: "/uploads/logo.jpg"
-background: "/uploads/cover.jpg"
+logo: "/assets/img/logo.png"
+background: "/assets/img/placeholder-big.jpg"
 tiled_bg: false
 locale: en_US
 url: https://taylantatli.github.io/Moon
