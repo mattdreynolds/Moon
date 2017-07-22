@@ -32,11 +32,11 @@ sass:
   sass_dir: _sass
   style: compressed
 disqus_shortname: taylantatli
-twitter: username
+twitter: thebeardgrammer
 facebook: mattdreynolds
-github-url: username
+github-url: thebeardgrammer
 instagram: mdrtp
-steam: username
+steam: mattdreynolds
 gems:
 - jekyll-mentions
 - jekyll-feed
