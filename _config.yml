@@ -13,7 +13,7 @@ description: You're either the one that creates the automation or you're getting
   - Tom Preston-Werner
 reading_time: true
 words_per_minute: 200
-logo: assets/img/logo.png
+logo: "/uploads/logo.jpg"
 background: assets/img/placeholder-big.jpg
 tiled_bg: false
 locale: en_US
