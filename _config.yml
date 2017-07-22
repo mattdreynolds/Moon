@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              TexOps.io
+bio:                'A Texas Sized Journey Into DevOps'
+description:        "You're either the one that creates the automation or you're getting automated. - Tom Preston-Werner"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,12 +39,12 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+facebook:           mattdreynolds
 github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+#linkedin:          mattdreynolds
 #xing:              username
-instagram:          username
+instagram:          mdrtp
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
