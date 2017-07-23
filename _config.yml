@@ -43,7 +43,7 @@ gems:
 - jekyll-sitemap
 - jekyll-gist
 jekyll-mentions:
-  base_url: http://www.texops.io
+  base_url: 
 exclude:
 - README.md
 - Gemfile
