@@ -32,10 +32,10 @@ sass:
   style: compressed
 disqus_shortname: taylantatli
 email: thebeardgramer@texops.io
-twitter: username
+twitter: thebeardgrammer
 facebook: mattdreynolds
 github-url: thebeardgrammer
-linkedin: mattdreynolds
+linkedin: matthewdavidreynolds
 instagram: mdrtp
 gems:
 - jekyll-mentions
